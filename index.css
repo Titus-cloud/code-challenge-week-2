@@ -67,7 +67,7 @@ body {
 }
 
 .add-button:hover {
-  background-color: black;
+  background-color: red;
 }
 
 .remove-button {
